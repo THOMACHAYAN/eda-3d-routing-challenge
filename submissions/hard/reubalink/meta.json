@@ -1,5 +1,5 @@
 {
- "author": "reubalink",
+ "author": "Reuben Thomas Ebby",
  "url": "https://github.com/partcleda/eda-3d-routing-challenge",
  "date": "2026-10-02",
  "method": "shortest-path trees, fanout-scaled PathFinder negotiation, exact per-net reroute, window LNS, negotiated repair inside ripped windows, then exact chain-flow repair inside small windows. Routes are from this run; no other entry's routes were copied."
